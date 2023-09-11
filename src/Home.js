@@ -5,7 +5,7 @@ import "./App.css";
 function Home() {
   return (
     <div className="Home">
-      <h1>Vending machine</h1>
+      <h1>Vending Machine</h1>
       <img src="https://www.amequipmentsales.com/wp-content/uploads/2017/10/AMS-300x450.png" />
       <h2>
         <a href="/candy">Candy</a>
